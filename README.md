@@ -28,7 +28,7 @@ Este proyecto es una API RESTful desarrollada como parte del desafío técnico d
 
 ## Arquitectura del Proyecto
 
-Se utilizó **arquitectura hexagonal (puertos y adaptadores)** con separación clara entre controladores, lógica de dominio y persistencia.  
+Se utilizó **arquitectura hexagonal (puertos y adaptadores)** con separación clara entre controladores, lógica de dominio, infraestructura y persistencia.  
 Se aplicaron los **principios SOLID**, priorizando mantenibilidad, testabilidad y bajo acoplamiento.
 
 ![Arquitectura Hexagonal](docs/arquitectura-hexagonal.png)
