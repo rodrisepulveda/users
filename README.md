@@ -1,4 +1,4 @@
-# Backend Challenge - Nisum
+# Backend Challenge - Sermaluc
 
 Este proyecto es una API RESTful desarrollada como parte del desafío técnico de Nisum Latam. Permite el registro de usuarios, autenticación con JWT, gestión del estado activo y consulta de usuarios. La solución está basada en arquitectura hexagonal y los principios SOLID, con un enfoque modular y testeable.
 
