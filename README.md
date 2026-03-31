@@ -47,8 +47,8 @@ Se aplicaron los **principios SOLID**, priorizando mantenibilidad, testabilidad 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/rodrisepulveda/user-registration.git
-cd user-registration
+git clone https://github.com/rodrisepulveda/users.git
+cd users
 
 # Ejecutar el proyecto
 ./mvnw spring-boot:run
