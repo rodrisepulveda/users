@@ -156,5 +156,4 @@ Las tablas estarán disponibles solo mientras la aplicación esté corriendo, ya
 
 - Si el usuario está **inactivo**, aunque tenga un token válido **no podrá acceder a endpoints protegidos**.
 - Se utilizó `@ControllerAdvice` para centralizar el manejo de errores, retornando mensajes claros para el cliente.
-- MapStruct se utiliza para mapear DTOs a entidades de dominio automáticamente (ver interfaces `UserRequestMapper`, `UserResponseMapper`).
 
